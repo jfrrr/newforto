@@ -30,7 +30,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased text-white`}
       >
-        {/* 🌈 Background global */}
+        {/*Background global */}
         <div className="fixed inset-0 -z-10 w-full h-full min-h-screen">
           <PixelBlast
             variant="circle"
